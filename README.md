@@ -6,16 +6,16 @@ repositories for the various blogs that I'm in the process of writing.
 
 These are:
 
-## Beginners guide to Artificial Intelligence and Machine Learning
+#### Beginners guide to Artificial Intelligence and Machine Learning
 [All things AI](allthingsai.wordpress.com "Learn AI, ML & DL")
 
-## Beginners guide to Web development [Back end/ front End/ WebApps]
+#### Beginners guide to Web development [Back end/ front End/ WebApps]
 [All things Web Dev](allthingswebdev.wordpress.com "Learn web Development")
 
-## Learn App Design
+#### Learn App Design
 [All things App Design related](allthingsapps.wordpress.com)
 
-# About me:
+## About me:
 I've worn many hats varrying from being an Electrical Engineer, working in sales, marketing, business Development, 
 consulting, strategy to working in Finance. Having coded extensively some 10 years ago, I've picked it 
 up again as a hobby to explore all the new developments out there. Happy to take feedback to tailor the material
