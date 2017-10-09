@@ -1,4 +1,9 @@
 # Hello-world
+***
+>“Shoot for the moon. Even if you miss, you'll land among the stars.”
+>― Norman Vincent Peale
+> So why not shoot for the biggest one out there?
+
 My first repository and introduction to GitHub
 
 Welcome to the Beyond Antares GitHub page. This is a centralised and consolidated page that holds
@@ -14,7 +19,7 @@ These are:
 
 ### Beginners guide to Building Mobile Apps
 [All things App Design related](allthingsapps.wordpress.com)
-
+***
 ## About me:
 I've worn many hats varrying from being an Electrical Engineer, working in sales, marketing, business Development, 
 consulting, strategy to working in Finance. Having coded extensively some 10 years ago, I've picked it 
