@@ -12,7 +12,7 @@ These are:
 ### Beginners guide to Web development [Back end/ front End/ WebApps]
 [All things Web Dev](allthingswebdev.wordpress.com "Learn web Development")
 
-### Learn App Design
+### Beginners guide to Building Mobile Apps
 [All things App Design related](allthingsapps.wordpress.com)
 
 ## About me:
